@@ -1,0 +1,23 @@
+.mainBg {
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.text {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.hre {
+    position: absolute;
+    margin-left: 165px;
+}
+
+.img{
+    position: absolute;
+    margin-left: 100px;
+}
